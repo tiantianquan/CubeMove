@@ -1,0 +1,90 @@
+-debug
+-target:library
+-nowarn:0169
+-out:'Temp/Assembly-CSharp.dll'
+-r:'/Applications/Unity/Unity.app/Contents/Frameworks/Managed/UnityEngine.dll'
+-r:'Library/ScriptAssemblies/Assembly-CSharp-firstpass.dll'
+-r:'Library/ScriptAssemblies/Assembly-UnityScript-firstpass.dll'
+-r:'/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/4.6.0/UnityEngine.UI.dll'
+-r:'/Applications/Unity/Unity.app/Contents/Frameworks/Managed/UnityEditor.dll'
+-define:UNITY_4_6_0
+-define:UNITY_4_6
+-define:UNITY_STANDALONE_OSX
+-define:ENABLE_MICROPHONE
+-define:ENABLE_TEXTUREID_MAP
+-define:ENABLE_UNITYEVENTS
+-define:ENABLE_NEW_HIERARCHY 
+-define:ENABLE_AUDIO_FMOD
+-define:UNITY_STANDALONE
+-define:ENABLE_MONO
+-define:ENABLE_TERRAIN
+-define:ENABLE_SUBSTANCE
+-define:ENABLE_GENERICS
+-define:INCLUDE_WP8SUPPORT
+-define:ENABLE_MOVIES
+-define:ENABLE_WWW
+-define:ENABLE_IMAGEEFFECTS
+-define:ENABLE_4_6_FEATURES
+-define:INCLUDE_WP_BLUE_SUPPORT
+-define:ENABLE_WEBCAM
+-define:INCLUDE_METROSUPPORT
+-define:RENDER_SOFTWARE_CURSOR
+-define:ENABLE_NETWORK
+-define:ENABLE_PHYSICS
+-define:ENABLE_CACHING
+-define:ENABLE_CLOTH
+-define:ENABLE_2D_PHYSICS
+-define:ENABLE_GAMECENTER
+-define:ENABLE_SHADOWS
+-define:ENABLE_AUDIO
+-define:ENABLE_NAVMESH_CARVING
+-define:ENABLE_DUCK_TYPING
+-define:ENABLE_SINGLE_INSTANCE_BUILD_SETTING
+-define:ENABLE_PROFILER
+-define:UNITY_EDITOR
+-define:UNITY_EDITOR_OSX
+'Assets/Breakable Glass/Scripts/BreakGlass.cs'
+'Assets/Breakable Glass/Scripts/GlassBreaker.cs'
+'Assets/CubeMove.cs'
+'Assets/Game 1 - Catch eggs/Scripts/EggCollider.cs'
+'Assets/Game 1 - Catch eggs/Scripts/EggScript.cs'
+'Assets/Game 1 - Catch eggs/Scripts/PlayerScript.cs'
+'Assets/Game 1 - Catch eggs/Scripts/SpawnerScript.cs'
+'Assets/Game 2 - Jump game/Scripts/EdgeTrigger.cs'
+'Assets/Game 2 - Jump game/Scripts/GameControl.cs'
+'Assets/Game 2 - Jump game/Scripts/GameGUI.cs'
+'Assets/Game 2 - Jump game/Scripts/Playermovement.cs'
+'Assets/Game 3 - Marble game/Scripts/GameoverTrigger.cs'
+'Assets/Game 3 - Marble game/Scripts/MarbleCamera.cs'
+'Assets/Game 3 - Marble game/Scripts/MarbleControl.cs'
+'Assets/Game 3 - Marble game/Scripts/MarbleGameManager.cs'
+'Assets/Game 4 - 3D breakout/Scripts/Ball.cs'
+'Assets/Game 4 - 3D breakout/Scripts/Block.cs'
+'Assets/Game 4 - 3D breakout/Scripts/BreakoutGame.cs'
+'Assets/Game 4 - 3D breakout/Scripts/Paddle.cs'
+'Assets/Game 5 - Shooting gallery/Scripts/GameManager.cs'
+'Assets/Game 5 - Shooting gallery/Scripts/ObjectSpawner.cs'
+'Assets/Game 5 - Shooting gallery/Scripts/PlayerInput.cs'
+'Assets/MainMenu/MainMenuScript.cs'
+'Assets/MecanimGDC2013/Scripts/Action.cs'
+'Assets/MecanimGDC2013/Scripts/Bazooka.cs'
+'Assets/MecanimGDC2013/Scripts/CollectLog.cs'
+'Assets/MecanimGDC2013/Scripts/CollectPopsicle.cs'
+'Assets/MecanimGDC2013/Scripts/DamageProvider.cs'
+'Assets/MecanimGDC2013/Scripts/DamageReceiver.cs'
+'Assets/MecanimGDC2013/Scripts/JoystickToWorld.cs'
+'Assets/MecanimGDC2013/Scripts/Karma.cs'
+'Assets/MecanimGDC2013/Scripts/Locomotion.cs'
+'Assets/MecanimGDC2013/Scripts/LookAhead.cs'
+'Assets/MecanimGDC2013/Scripts/NPC_DamageReceiver.cs'
+'Assets/MecanimGDC2013/Scripts/NPC_Patrol.cs'
+'Assets/MecanimGDC2013/Scripts/NPC_ShootPlayer.cs'
+'Assets/MecanimGDC2013/Scripts/Player.cs'
+'Assets/MecanimGDC2013/Scripts/Player_Shoot.cs'
+'Assets/MecanimGDC2013/Scripts/Recorder.cs'
+'Assets/MecanimGDC2013/Scripts/Reset.cs'
+'Assets/MecanimGDC2013/Scripts/Spawner.cs'
+'Assets/MecanimGDC2013/Scripts/ThirdPersonCamera.cs'
+'Assets/MyTest1/BallScript.cs'
+-r:'/Applications/Unity/Unity.app/Contents/Frameworks/Mono/lib/mono/unity/System.Runtime.Serialization.dll'
+-r:'/Applications/Unity/Unity.app/Contents/Frameworks/Mono/lib/mono/unity/System.Xml.Linq.dll'
